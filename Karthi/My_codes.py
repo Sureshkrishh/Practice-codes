@@ -1,8 +1,4 @@
-# a= ('Enter first one')
-# b=('Enter second value')
-# c=a+b
-# print(c)
-a= 10
-b=10
+a= int(input('Enter first one: ')) #check with string input here
+b=int(input('Enter second value: ')) #check with int/float value here
 c=a+b
-print(c)
+print("Output is ",c) #find the output and let me know
