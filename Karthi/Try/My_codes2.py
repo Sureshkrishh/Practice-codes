@@ -70,6 +70,12 @@
 # c=a+b
 # print(c)
 
-a=10.20
-b=10.20
-print(id(a),id(b))
+# a=10.20
+# b=10.20
+# print(id(a),id(b))
+# a=0.1
+# b=0.2
+# c=a+b
+# print(c)
+
+print(1<<2)
