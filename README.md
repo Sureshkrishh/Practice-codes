@@ -1,4 +1,4 @@
-# CREATE A FOLDER IN YOUR NAME AND SHARE YOUR CODE .
+# CREATE A FOLDER IN YOUR NAME AND SHARE YOUR CODES .
 
     Read others code but please dont edit it.
 
