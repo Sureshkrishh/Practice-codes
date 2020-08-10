@@ -11,3 +11,5 @@ Python:
 5.To visualize/debug ---> http://www.pythontutor.com/visualize.html#mode=edit
 
 6.Git beginners ---> https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+
