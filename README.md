@@ -6,5 +6,8 @@
 
 # 05-08-2020 ---> Books are added in Charlie/Python and ML books.
 
+# 11-08-2020 ---> Important links added in Charlie/Python and ML books.
+
+    Nessuno è diventato povero dando :)
     #learnbay_mates
-    :)
+     
