@@ -8,6 +8,6 @@
 
 # 11-08-2020 ---> Important links added in Charlie/readme.txt
 
-    Nessuno è diventato povero dando :)
+    Nessuno è mai diventato povero dando :)
     #learnbay_mates
      
