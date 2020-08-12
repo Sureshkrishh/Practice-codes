@@ -6,10 +6,10 @@ Python:
 
 3.Tutorial ---> https://www.w3schools.com/python/
 
-4.Exercises ---> https://www.w3resource.com/python-exercises/
+4.To visualize/debug ---> http://www.pythontutor.com/visualize.html#mode=edit
 
-5.To visualize/debug ---> http://www.pythontutor.com/visualize.html#mode=edit
+5.Exercises ---> https://www.w3resource.com/python-exercises/ and https://www.geeksforgeeks.org/python-programming-language/
 
-6.Git beginners ---> https://www.youtube.com/watch?v=SWYqp7iY_Tc
+6.Questions ---> https://stackoverflow.com/questions/tagged/python
 
-
+7.Git beginners ---> https://www.youtube.com/watch?v=SWYqp7iY_Tc
