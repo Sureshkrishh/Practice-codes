@@ -14,3 +14,8 @@ Python:
 
 7.Git beginners ---> https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
+Classes:
+
+1. Tableau class ( 9am - 12:30pm ) --> 15,16,22,23 August --> https://us02web.zoom.us/j/85286711584?pwd=Zm9UcG9TNTFnejJlYlRXa0JwV09PZz09
+
+2. SQL class ( 9am - 12:30pm ) --> 29,30 August & 5,6 September --> https://us02web.zoom.us/j/85286711584?pwd=Zm9UcG9TNTFnejJlYlRXa0JwV09PZz09
