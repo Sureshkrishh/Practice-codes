@@ -22,8 +22,10 @@ Classes:
 
 Downloads: 
 
-1. Tableau --> https://drive.google.com/file/d/1B6m4rUg_sRdI9Wrl62JOhwXsd0fcmOMa/view?usp=sharing
+1. Tableau --> https://drive.google.com/file/d/1B6m4rUg_sRdI9Wrl62JOhwXsd0fcmOMa/view?usp=drivesdk
 
-2. SQL --> https://drive.google.com/file/d/1NFB3JVC3RJ6s4WP0LijuvVTBWAByUtSf/view?usp=sharing
+2. SQL --> https://drive.google.com/file/d/1NFB3JVC3RJ6s4WP0LijuvVTBWAByUtSf/view?usp=drivesdk
 
-3. PowerBI --> https://drive.google.com/file/d/1Ke05gOyTYJ90G_v9BAaCOLV4ftIrg0nR/view?usp=sharing
+3. PowerBI --> https://drive.google.com/file/d/1Ke05gOyTYJ90G_v9BAaCOLV4ftIrg0nR/view?usp=drivesdk
+
+4. Superstore data --> https://drive.google.com/file/d/1d1RQuW1cu_yF0PCgR8sldo_jOu8-BAbg/view?usp=drivesdk
