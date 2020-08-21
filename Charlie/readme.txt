@@ -16,6 +16,16 @@ Python:
 
 Classes:
 
-1. Tableau class ( 9am - 12:30pm ) --> 15,16,22,23 August --> https://us02web.zoom.us/j/85286711584?pwd=Zm9UcG9TNTFnejJlYlRXa0JwV09PZz09
+1. Tableau class ( 9am - 12:30pm ) --> (23,29,30 Aug) --> https://us02web.zoom.us/j/83380922804?pwd=L3RYbEdwWGxCMHMrZUo4aWpQVGV4Zz09
 
-2. SQL class ( 9am - 12:30pm ) --> 29,30 August & 5,6 September --> https://us02web.zoom.us/j/85286711584?pwd=Zm9UcG9TNTFnejJlYlRXa0JwV09PZz09
+2. SQL class ( 9am - 12:30pm ) -->  --> https://us02web.zoom.us/j/83380922804?pwd=L3RYbEdwWGxCMHMrZUo4aWpQVGV4Zz09
+
+Downloads: 
+
+1. Tableau --> https://drive.google.com/file/d/1B6m4rUg_sRdI9Wrl62JOhwXsd0fcmOMa/view?usp=drivesdk
+
+2. SQL --> https://drive.google.com/file/d/1NFB3JVC3RJ6s4WP0LijuvVTBWAByUtSf/view?usp=drivesdk
+
+3. PowerBI --> https://drive.google.com/file/d/1Ke05gOyTYJ90G_v9BAaCOLV4ftIrg0nR/view?usp=drivesdk
+
+4. Superstore data --> https://drive.google.com/file/d/1d1RQuW1cu_yF0PCgR8sldo_jOu8-BAbg/view?usp=drivesdk
