@@ -8,6 +8,7 @@
 
 # 21-08-2020 ---> Important links added in Charlie/readme.txt
 
+# 21-08-2020 ---> Tableau installation video added in Charlie/Installation video
+
     Nessuno è mai diventato povero dando :)
     #learnbay_mates
-     
