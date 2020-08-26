@@ -10,5 +10,7 @@
 
 # 21-08-2020 ---> Tableau installation video added in Charlie/Installation video
 
+# 26-08-2020 ---> Cheat sheet added in Charlie/Cheat-sheets
+
     Nessuno è mai diventato povero dando :)
     #learnbay_mates
