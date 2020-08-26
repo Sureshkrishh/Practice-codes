@@ -4,13 +4,13 @@
 
     This repository is always open for suggestions.
 
-# 05-08-2020 ---> Books are added in Charlie/Python and ML books.
-
-# 21-08-2020 ---> Important links added in Charlie/readme.txt
+# 26-08-2020 ---> Cheat sheet added in Charlie/Cheat-sheets
 
 # 21-08-2020 ---> Tableau installation video added in Charlie/Installation video
 
-# 26-08-2020 ---> Cheat sheet added in Charlie/Cheat-sheets
+# 21-08-2020 ---> Important links added in Charlie/readme.txt
+
+# 05-08-2020 ---> Books are added in Charlie/Python and ML books.
 
     Nessuno è mai diventato povero dando :)
     #learnbay_mates
